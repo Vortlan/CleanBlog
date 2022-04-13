@@ -1,0 +1,23 @@
+{
+  "name": "cleanblogodev7",
+  "version": "1.0.0",
+  "description": "Clean Blog App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "prettier": "^2.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Clean",
+    "Blog"
+  ],
+  "author": "Umut Macit",
+  "license": "ISC"
+}
